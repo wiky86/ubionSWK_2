@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://wiky86.github.io/ubionSWK/",
+  "homepage": "https://wiky86.github.io/ubionSWK_2/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
