@@ -1,16 +1,51 @@
 [
     {
         "id": 1,
-        "name": "Bukchon Hanok Village",
-        "reason": "Experience traditional Korean houses.",
-        "lat": 37.582604,
-        "lng": 126.985018
+        "name": "경복궁",
+        "reason": "조선 왕조의 법궁, 역사 탐방",
+        "lat": 37.5796,
+        "lng": 126.9770
     },
     {
         "id": 2,
-        "name": "Lotte World Tower",
-        "reason": "Visit the highest observation deck.",
-        "lat": 37.512596,
-        "lng": 127.102522
+        "name": "N서울타워",
+        "reason": "서울의 랜드마크, 야경 감상",
+        "lat": 37.5511,
+        "lng": 126.9882
+    },
+    {
+        "id": 3,
+        "name": "북촌 한옥마을",
+        "reason": "전통 한옥의 정취 느끼기",
+        "lat": 37.5826,
+        "lng": 126.9850
+    },
+    {
+        "id": 4,
+        "name": "DDP (동대문디자인플라자)",
+        "reason": "현대적인 건축미와 전시 관람",
+        "lat": 37.5665,
+        "lng": 127.0090
+    },
+    {
+        "id": 5,
+        "name": "롯데월드타워",
+        "reason": "국내 최고층 전망대 체험",
+        "lat": 37.5126,
+        "lng": 127.1025
+    },
+    {
+        "id": 6,
+        "name": "서울숲",
+        "reason": "도심 속 힐링과 피크닉",
+        "lat": 37.5444,
+        "lng": 127.0374
+    },
+    {
+        "id": 7,
+        "name": "광장시장",
+        "reason": "서울의 맛, 먹거리 탐방",
+        "lat": 37.5701,
+        "lng": 126.9997
     }
 ]
