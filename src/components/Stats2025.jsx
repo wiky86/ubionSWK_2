@@ -28,7 +28,7 @@ const Stats2025 = () => {
                             <div className="h-48 bg-slate-600 overflow-hidden">
                                 {/* Placeholder for image if not found, or actual image */}
                                 <img
-                                    src={`${import.meta.env.BASE_URL}${place.image.replace(/^\//, '')}`}
+                                    src={place.image.startsWith('http') ? place.image : `${import.meta.env.BASE_URL}${place.image.replace(/^\//, '')}`}
                                     alt={place.name}
                                     className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
                                     onError={(e) => { e.target.src = 'https://placehold.co/600x400?text=No+Image' }}
